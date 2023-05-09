@@ -1,0 +1,1 @@
+-novid -tickrate 128 +fps_max 0 -nojoy
